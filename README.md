@@ -70,7 +70,8 @@ An intelligent network intrusion detection system using machine learning to iden
    ```bash
     pip install -r requirements.txt
 4.Download NSL-KDD dataset from Kaggle
-Place KDDTrain+.txt and KDDTest+.txt in the data/ folder
+  ```BASH
+  Place KDDTrain+.txt and KDDTest+.txt in the data/ folder
 
 RUN : python ids_main.py
 
